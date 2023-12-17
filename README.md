@@ -1,7 +1,8 @@
 # Introduction to CV | Lab assignments
 
-This repository contains my solutions to lab assignments for a core course on Introduction to Computer Vision at Innopolis University. The main objective of labs was to provide practical experience in building models, specifically convolutional neural networks, from scratch using numpy. These assignments focused on implementing both forward and backward propagation for various nodes used in the model. All solutions were graded 100%.
+This repository contains my solutions to lab assignments for a core course on Introduction to Computer Vision offered at Innopolis University. All my solutions were graded 100%.
 
+The main objective of labs was to provide practical experience in building models, specifically convolutional neural networks, from scratch using numpy. These assignments focused on implementing both forward and backward propagation for various nodes used in the model. 
 
 #### Lab Descriptions
 
